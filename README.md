@@ -2,8 +2,11 @@
 This repository contains Python code for generating and visualizing L-systems, a mathematical formalism used to model the growth and development of complex structures, such as plants and fractals.
 
 References:
+
 https://erase.net/projects/l-systems/
+
 https://en.wikipedia.org/wiki/L-system
+
 https://www.youtube.com/watch?v=E1B4UoSQMFw
 
 
